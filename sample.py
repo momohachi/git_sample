@@ -1,8 +1,14 @@
 def main():
-    print("Hello,World")
-    
-if __name__ =="__main__":
+    a = 5
+    b = 3
+    result = a + b
+    print(f"The sum of {a} and {b} is {result}")
+
+if __name__ == "__main__":
     main()
+    
+    
+
 
    
 
